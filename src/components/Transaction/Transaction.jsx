@@ -1,5 +1,4 @@
-import React from 'react';
-import { Calendar, ChevronDown, Building2, CreditCard, Layers } from 'lucide-react';
+import { Calendar, ChevronDown } from 'lucide-react';
 import bank from '../../assets/images/bank.png';
 import paypal from '../../assets/images/paypal.png';
 import figma from '../../assets/images/figma.png';
